@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Matima</string>
+    <string name="name">Nom</string>
+    <string name="title_home">Accueil</string>
+    <string name="viber_contact">Contact Viber?</string>
+    <string name="delete_contact">Supprimer contact</string>
+    <string name="exit">Quitter l\'application</string>
+    <string name="credits">Matima app par AITALLALA Yazid</string>
+    <string name="about">A propos de l\'application Matima</string>
+    <string name="email">Envoyer mail</string>
+    <string name="tel">Numéro de téléphone</string>
+    <string name="add_contact">Ajouter contact</string>
+    <string name="welcome">Bienvenue dans l\'application Matima, cette application est conçue pour les personnes sans instruction qui ne savent pas lire, l\'application offre la possibilité de passer des appels en cliquant sur les images de contact.</string>
+    <string name="orientation">" Commençons par ajouter des contacts en balayant de gauche à droite"</string>
+    <string name="import_contacts">"Importer contacts "</string>
+</resources>

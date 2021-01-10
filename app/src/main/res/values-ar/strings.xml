@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Matima</string>
+    <string name="tel">رقم هاتف</string>
+    <string name="add_contact">إضافة جهة اتصال</string>
+    <string name="name">أسم</string>
+    <string name="viber_contact">اتصال فايبر</string>
+    <string name="orientation">لنبدأ في إضافة جهات اتصال عن طريق التمرير من اليسار إلى اليمين</string>
+    <string name="delete_contact">حذف اتصال</string>
+    <string name="exit">الخروج من التطبيق</string>
+    <string name="welcome">مرحبًا بك في تطبيق Matima ، تم تصميم هذا التطبيق للأشخاص غير المتعلمين الذين لا يعرفون كيفية القراءة ، ويقدم التطبيق خيار إجراء مكالمات من خلال النقر على صور جهات الاتصال.</string>
+    <string name="credits">تطبيق Matima من قبل يزيد أيت علالة</string>
+    <string name="about">حول تطبيق Matima</string>
+    <string name="email">ارسل بريد...</string>
+    <string name="import_contacts">استيراد جهات الاتصال</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">Matima</string>
+    <string name="title_activity_bottom_navigation_activity" translatable="false">Bottom_navigation_activity</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <string name="welcome">Welcome to Matima App, this application is designed for uneducated people who don\'t know how to read, the app offers the option to make calls by clicking on contact images.</string>
+    <string name="name">Name</string>
+    <string name="tel">Telephone number</string>
+    <string name="add_contact">Add contact</string>
+    <string name="viber_contact">Viber Contact?</string>
+    <string name="orientation">Let\'s start adding contacts by swiping from the left to the right</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="exit">Exit Application</string>
+    <string name="credits">Matima app by Yazid AITALLALA</string>
+    <string name="about">About Matima application</string>
+    <string name="email">Send mail...</string>
+    <string name="import_contacts">Import contacts</string>
+    <string name="title_activity_importer_contacts">ImporterContacts</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
